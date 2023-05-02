@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    background-color: #daedf4;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 100px 0 100px 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 180vh;
+    width: 800px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.content {
+    padding: 100px 0 200px 30px;
+}
+
+.h1 {
+    font-size: 45px;
+    padding: 60px 0 0px 50px;}
+    
+.p {
+    padding: 5px 0 50px 50px;
+    font-weight: 900;
+    font-size: 22px;
+    color: #57647e;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+.h3 {
+    padding: 50px 0 15px 50px;
+}
+
+.table {
+
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+
+.vs {
+    border: solid 1px #D3D3D3;
+    padding: 10px;
+    background-color: #e5eaf4;
+    
+    
+    
+}
+.s {
+    border: solid 1px #D3D3D3;
+    padding: 10px;
+    background-color: #e5eaf4;
+}
+.n {
+    border: solid 1px #D3D3D3;
+    padding: 10px;
+    background-color: #e5eaf4;
+}
+.uns {
+    border: solid 1px #D3D3D3;
+    padding: 10px;
+    background-color: #e5eaf4;
+}
+
+.vuns {
+    border: solid 1px #D3D3D3;
+    padding: 10px;
+    background-color: #e5eaf4;
+    
+}
+
+.n {
+    border-radius: 0 0 0 4px;
+}
+
+.data {
+    border: solid 1px #D3D3D3;
+    
+}
+
+#radio {
+    height: 20px;
+    width: 20px;
+    clip: auto;
+    cursor: pointer;
+    background-color: initial;
+    box-sizing: border-box;
+}
+
+#radio1 {
+    height: 20px;
+    width: 20px;
+    margin: 10px 50px 10px 50px;
+}
+
+#radio2 {
+    height: 20px;
+    width: 20px;
+    margin: 10px 50px 10px 50px;
+}
+
+#radio3 {
+    height: 20px;
+    width: 20px;
+    margin: 10px 50px 10px 50px;
+}
+
+#radio4 {
+    height: 20px;
+    width: 20px;
+    margin: 10px 50px 10px 50px;
+}
+
+#radio5 {
+    height: 20px;
+    width: 20px;
+    margin: 10px 60px 10px 60px;
+}
+
+.content2 {
+    padding: 0px 0 50px 50px;
+}
+
+.option1 {
+    height: 20px;
+    width: 20px;
+    margin-top: 15px;
+}
+
+label {
+    font-size: 17px;
+    font-weight: 900;
+    margin: -10px 0 0 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.optiion {
+    height: 20px;
+    width: 20px;
+    margin: 5px 5px 5px 0px;
+}
+
+.content3 {
+    padding: 0px 0 20px 50px;
+}
+
+.textarea {
+    margin-top: 15px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #D3D3D3;
+    opacity: initial;
+    padding: 10px;
+    font-size: 20px;
+   
+
+}
+
+.brd {
+    border-bottom: 1px solid #D3D3D3;
+    margin-top: 5px;
+}
+
+.btn {
+    background-color: #03CC0B;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 40px 310px 40px 310px ;
+    padding: 10px 50px 10px 50px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
